@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment AppPlatformVersion="8.0" xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment">
+  <DefaultLanguage code="en-US" xmlns="" />
+  <Languages xmlns="">
+    <Language code="en-US" />
+  </Languages>
+  <App Author="MobileCraft Business Monthly" BitsPerPixel="32" Description="wp370.80" Genre="apps.normal" ProductID="{6b853c5b-87bf-4860-88e1-72f219909804}" Publisher="MobileCraft Business Monthly" PublisherID="{fe25f19c-c4f3-44c8-9a56-541d53ed9b98}" RuntimeType="Silverlight" Title="wp370.80" Version="1.0" xmlns="">
+    <IconPath IsRelative="true" IsResource="false">App_Resources\WP8\ApplicationIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_ISV_CAMERA" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_MICROPHONE" />
+      <Capability Name="ID_CAP_CONTACTS" />
+      <Capability Name="ID_CAP_IDENTITY_DEVICE" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_LOCATION" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TaskName="_default" TokenID="wp370.80Token">
+        <TemplateIconic>
+          <SmallImageURI IsRelative="true" IsResource="false">App_Resources\WP8\Tiles\Iconic\110x110.png</SmallImageURI>
+          <Count>0</Count>
+          <IconImageURI IsRelative="true" IsResource="false">App_Resources\WP8\Tiles\Iconic\202x202.png</IconImageURI>
+          <Title />
+          <HasLarge>false</HasLarge>
+          <DeviceLockImageURI IsRelative="true" IsResource="false" />
+        </TemplateIconic>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->

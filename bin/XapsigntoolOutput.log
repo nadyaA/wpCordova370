@@ -1,0 +1,57 @@
+The following certificate was selected:
+    Issued to: Telerik AD
+    Issued by: Symantec Enterprise Mobile CA for Microsoft
+    Expires:   Thu Apr 09 12:34:07 2015
+    SHA1 hash: C84DD8C1BB85F7C729B6C0A46ABDCA50A4205ABF
+Done Adding Additional Store
+Successfully signed: C:\Users\DragonBuilder\AppData\Local\Temp\tmpFE57.tmp\com.telerik.wp37080.dll
+Number of files successfully Signed: 1
+Number of warnings: 0
+Number of errors: 0
+
+The following certificate was selected:
+    Issued to: Telerik AD
+    Issued by: Symantec Enterprise Mobile CA for Microsoft
+    Expires:   Thu Apr 09 12:34:07 2015
+    SHA1 hash: C84DD8C1BB85F7C729B6C0A46ABDCA50A4205ABF
+Done Adding Additional Store
+Successfully signed: C:\Users\DragonBuilder\AppData\Local\Temp\tmpFE57.tmp\CustomMessageBox.dll
+Number of files successfully Signed: 1
+Number of warnings: 0
+Number of errors: 0
+
+The following certificate was selected:
+    Issued to: Telerik AD
+    Issued by: Symantec Enterprise Mobile CA for Microsoft
+    Expires:   Thu Apr 09 12:34:07 2015
+    SHA1 hash: C84DD8C1BB85F7C729B6C0A46ABDCA50A4205ABF
+Done Adding Additional Store
+Successfully signed: C:\Users\DragonBuilder\AppData\Local\Temp\tmpFE57.tmp\SharpCompress.dll
+Number of files successfully Signed: 1
+Number of warnings: 0
+Number of errors: 0
+
+The following certificate was selected:
+    Issued to: Telerik AD
+    Issued by: Symantec Enterprise Mobile CA for Microsoft
+    Expires:   Thu Apr 09 12:34:07 2015
+    SHA1 hash: C84DD8C1BB85F7C729B6C0A46ABDCA50A4205ABF
+Done Adding Additional Store
+Successfully signed: C:\Users\DragonBuilder\AppData\Local\Temp\tmpFE58.tmp\wp370.80_new.xap
+Number of files successfully Signed: 1
+Number of warnings: 0
+Number of errors: 0
+
+XapSignTool Success: Successfully signed = C:\t\bb6224e6b38b\bin\wp370.80_new.xap
+
+Timers:
+Main:2606.1ms
+ExtractZip(C:\t\bb6224e6b38b\bin\wp370.80_new.xap):772.3ms
+Signing PE files:937.6ms
+LaunchSignTool(C:\Users\DragonBuilder\AppData\Local\Temp\tmpFE57.tmp\com.telerik.wp37080.dll):328.1ms
+LaunchSignTool(C:\Users\DragonBuilder\AppData\Local\Temp\tmpFE57.tmp\CustomMessageBox.dll):171.8ms
+LaunchSignTool(C:\Users\DragonBuilder\AppData\Local\Temp\tmpFE57.tmp\SharpCompress.dll):205.0ms
+CreateXap(C:\t\bb6224e6b38b\bin\wp370.80_new.xap):280.6ms
+Signing XAP file:250.0ms
+LaunchSignTool(C:\Users\DragonBuilder\AppData\Local\Temp\tmpFE58.tmp\wp370.80_new.xap):171.9ms
+CleanUp:303.1ms
